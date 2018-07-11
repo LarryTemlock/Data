@@ -1,0 +1,79 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf400
+{\fonttbl\f0\fnil\fcharset0 Georgia;\f1\froman\fcharset0 Times-Roman;\f2\fswiss\fcharset0 ArialMT;
+}
+{\colortbl;\red255\green255\blue255;\red38\green38\blue38;\red255\green255\blue255;\red39\green84\blue126;
+\red0\green0\blue0;\red83\green83\blue83;\red240\green240\blue240;}
+{\*\expandedcolortbl;;\cssrgb\c20000\c20000\c20000;\cssrgb\c100000\c100000\c100000;\cssrgb\c19608\c40784\c56863;
+\cssrgb\c0\c0\c0;\cssrgb\c40000\c40000\c40000;\cssrgb\c95294\c95294\c95294;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{none\}}{\leveltext\leveltemplateid1\'00;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\li900\sl345\sa240\partightenfactor0
+
+\f0\fs24 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 As a child in the early 1980s, I tended to talk with things in my mouth \'97 food, dentist's tubes, balloons that would fly away, whatever \'97 and if no one else was around, I'd talk anyway. This habit led to my fascination with the periodic table the first time I was left alone with a thermometer under my tongue. I came down with strep throat something like a dozen times in the second and third grades, and for days on end it would hurt to swallow. I didn't mind staying home from school and medicating myself with vanilla ice cream and chocolate sauce. Being sick always gave me another chance to break an old-fashioned mercury thermometer, too.\cb1 \
+\cb3 Lying there with the glass stick under my tongue, I would answer an imagined question out loud, and the thermometer would slip from my mouth and shatter on the hardwood floor, the liquid mercury in the bulb scattering like ball bearings. A minute later, my mother would drop to the floor despite her arthritic hip and begin corralling the balls. Using a toothpick like a hockey stick, she'd brush the supple spheres toward one another until they almost touched. Suddenly, with a final nudge, one sphere would gulp the other. A single, seamless ball would be left quivering where there had been two. She'd repeat this magic trick over and over across the floor, one large ball swallowing the others until the entire silver lentil was reconstructed.\cb1 \
+\cb3 Once she'd gathered every bit of mercury, she'd take down the green-labeled plastic pill bottle that we kept on a knickknack shelf in the kitchen between a teddy bear with a fishing pole and a blue ceramic mug from a 1985 family reunion. After rolling the ball onto an envelope, she'd carefully pour the latest thermometer's worth of mercury onto the pecan-sized glob in the bottle. Sometimes, before hiding the bottle away, she'd pour the quicksilver into the lid and let my siblings and me watch the futuristic metal whisk around, always splitting and healing itself flawlessly. I felt pangs for children whose mothers so feared mercury they wouldn't even let them eat tuna. Medieval alchemists, despite their lust for gold, considered mercury the most potent and poetic substance in the universe. As a child I would have agreed with them. I would even have believed, as they did, that it transcended pedestrian categories of liquid or solid, metal or water, heaven or hell; that it housed otherworldly spirits.\cb1 \
+\cb3 Mercury acts this way, I later found out, because it is an element. Unlike water (H2O), or carbon dioxide (CO2), or almost anything else you encounter day to day, you cannot naturally separate mercury into smaller units. In fact, mercury is one of the more cultish elements: its atoms want to keep company only with other mercury atoms, and they minimize contact with the outside world by crouching into a sphere. Most liquids I spilled as a child weren't like that. Water tumbled all over, as did oil, vinegar, and unset Jell-O. Mercury never left a speck. My parents always warned me to wear shoes whenever I dropped a thermometer, to prevent those invisible glass shards from getting into my feet. But I never recall warnings about stray mercury.\cb1 \
+\cb3 For a long time, I kept an eye out for element eighty at school and in books, as you might watch for a childhood friend's name in the newspaper. I'm from the Great Plains and had learned in history class that Lewis and Clark had trekked through South Dakota and the rest of the Louisiana Territory with a microscope, compasses, sextants, three mercury thermometers, and other instruments. What I didn't know at first is that they also carried with them six hundred mercury laxatives, each four times the size of an aspirin. The laxatives were called Dr. Rush's Bilious Pills, after Benjamin Rush, a signer of the Declaration of Independence and a medical hero for bravely staying in Philadelphia during a yellow fever epidemic in 1793. His pet treatment, for any disease, was a mercury-chloride sludge administered orally. Despite the progress medicine made overall between 1400 and 1800, doctors in that era remained closer to medicine men than medical men. With a sort of sympathetic magic, they figured that beautiful, alluring mercury could cure patients by bringing them to an ugly crisis \'97 poison fighting poison. Dr. Rush made patients ingest the solution until they drooled, and often people's teeth and hair fell out after weeks or months of continuous treatment. His "cure" no doubt poisoned or outright killed swaths of people whom yellow fever might have spared. Even so, having perfected his treatment in Philadelphia, ten years later he sent Meriwether and William off with some prepackaged samples. As a handy side effect, Dr. Rush's pills have enabled modern archaeologists to track down campsites used by the explorers. With the weird food and questionable water they encountered in the wild, someone in their party was always queasy, and to this day, mercury deposits dot the soil many places where the gang dug a latrine, perhaps after one of Dr. Rush's "Thunderclappers" had worked a little too well.\cb1 \
+\pard\pardeftab720\sl360\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://www.nytimes.com/2010/08/05/books/excerpt-the-disappearing-soon.html#story-continues-2"}}{\fldrslt 
+\f1\fs32 \cf4 \cb3 \strokec4 Continue reading the main story}}
+\f1\fs32 \cf4 \strokec4 \
+\pard\pardeftab720\sl360\partightenfactor0
+\cf2 \cb3 \strokec2 \
+\pard\pardeftab720\li900\sl345\sa240\partightenfactor0
+
+\f0\fs24 \cf2 Mercury also came up in science class. When first presented with the jumble of the periodic table, I scanned for mercury and couldn't find it. It is there \'97 between gold, which is also dense and soft, and thallium, which is also poisonous. But the symbol for mercury, Hg, consists of two letters that don't even appear in its name. Unraveling that mystery \'97 it's from\'a0
+\i hydragyrum
+\i0 , Latin for "water silver" \'97 helped me understand how heavily ancient languages and mythology influenced the periodic table, something you can still see in the Latin names for the newer, superheavy elements along the bottom row.\cb1 \
+\cb3 I found mercury in literature class, too. Hat manufacturers once used a bright orange mercury wash to separate fur from pelts, and the common hatters who dredged around in the steamy vats, like the mad one in Alice in Wonderland, gradually lost their hair and wits. Eventually, I realized how poisonous mercury is. That explained why Dr. Rush's Bilious Pills purged the bowels so well: the body will rid itself of any poison, mercury included. And as toxic as swallowing mercury is, its fumes are worse. They fray the "wires" in the central nervous system and burn holes in the brain, much as advanced Alzheimer's disease does.\cb1 \
+\pard\pardeftab720\sl330\partightenfactor0
+
+\b\fs30 \cf2 \cb3 Newsletter Sign Up\cb1 \
+\pard\pardeftab720\sl360\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://www.nytimes.com/2010/08/05/books/excerpt-the-disappearing-soon.html#continues-post-newsletter"}}{\fldrslt 
+\f1\b0\fs32 \cf4 \cb3 \strokec4 Continue reading the main story}}
+\f1\b0\fs32 \cf4 \strokec4 \
+\pard\pardeftab720\sl330\partightenfactor0
+
+\f2\b\fs30 \cf5 \cb3 \strokec5 Book Review\cb1 \
+\pard\pardeftab720\sl270\sa280\partightenfactor0
+
+\b0\fs21 \cf6 \cb3 \strokec6 Be the first to see reviews, news and features in The New York Times Book Review.\cb1 \
+\pard\pardeftab720\sl360\partightenfactor0
+
+\f1\fs32 \cf2 \strokec2 \
+\pard\pardeftab720\sl195\qc\partightenfactor0
+
+\f2\b\fs19\fsmilli9750 \cf2 \cb7 Sign Up\
+\pard\pardeftab720\sl216\partightenfactor0
+
+\b0\fs16\fsmilli8250 \cf6 \cb3 \strokec6 You will receive emails containing\'a0news content,\'a0updates\'a0and\'a0promotions\'a0from The New York Times. You may opt-out at any time.
+\f1\fs32 \cf2 \cb1 \strokec2 \
+\pard\pardeftab720\sl360\partightenfactor0
+\cf2 \
+\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl165\partightenfactor0
+\ls1\ilvl0
+\f2\fs13\fsmilli6750 \cf6 \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 		{\field{\*\fldinst{HYPERLINK "http://www.nytimes.com/pages/books/booksupdate/index.html?pgtype=subscriptionspage&version=lifestyle&contentId=BK&eventName=sample&module=newsletter-sign-up"}}{\fldrslt \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec6 SEE SAMPLE}}
+\f0\fs15 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \'a0{\field{\*\fldinst{HYPERLINK "https://www.nytimes.com/privacy"}}{\fldrslt 
+\f2\fs13\fsmilli6750 \cf6 \strokec6 PRIVACY POLICY}}\'a0{\field{\*\fldinst{HYPERLINK "https://www.nytimes.com/help/index.html"}}{\fldrslt 
+\f2\fs13\fsmilli6750 \cf6 \strokec6 OPT OUT OR CONTACT US ANYTIME}}\cb1 \
+\pard\pardeftab720\sl360\partightenfactor0
+
+\f1\fs32 \cf2 \
+\pard\pardeftab720\li900\sl345\sa240\partightenfactor0
+
+\f0\fs24 \cf2 \cb3 But the more I learned about the dangers of mercury, the more \'97 like William Blake's "Tyger! Tyger! burning bright" \'97 its destructive beauty attracted me. Over the years, my parents redecorated their kitchen and took down the shelf with the mug and teddy bear, but they kept the knickknacks together in a cardboard box. On a recent visit, I dug out the green-labeled bottle and opened it. Tilting it back and forth, I could feel the weight inside sliding in a circle. When I peeked over the rim, my eyes fixed on the tiny bits that had splashed to the sides of the main channel. They just sat there, glistening, like beads of water so perfect you'd encounter them only in fantasies. All throughout my childhood, I associated spilled mercury with a fever. This time, knowing the fearful symmetry of those little spheres, I felt a chill.\cb1 \
+\cb3 * * *\cb1 \
+\cb3 From that one element, I learned history, etymology, alchemy, mythology, literature, poison forensics, and psychology. And those weren't the only elemental stories I collected, especially after I immersed myself in scientific studies in college and found a few professors who gladly set aside their research for a little science chitchat.\cb1 \
+\cb3 As a physics major with hopes of escaping the lab to write, I felt miserable among the serious and gifted young scientists in my classes, who loved trial-and-error experiments in a way I never could. I stuck out five frigid years in Minnesota and ended up with an honors degree in physics, but despite spending hundreds of hours in labs, despite memorizing thousands of equations, despite drawing tens of thousands of diagrams with frictionless pulleys and ramps \'97 my real education was in my professors' stories. Stories about Gandhi and Godzilla and a eugenicist who used germanium to steal a Nobel Prize. About throwing blocks of explosive sodium into rivers and killing fish. About people suffocating, quite blissfully, on nitrogen gas in space shuttles. About a former professor on my campus who would experiment on the plutonium-powered pacemaker\'a0
+\i inside his own chest
+\i0 , speeding it up and slowing it down by standing next to and fiddling with giant magnetic coils.\cb1 \
+\cb3 I latched on to those tales, and recently, while reminiscing about mercury over breakfast, I realized that there's a funny, or odd, or chilling tale attached to every element on the periodic table. At the same time, the table is one of the great intellectual achievements of humankind. It's both a scientific accomplishment and a storybook, and I wrote this book to peel back all of its layers one by one, like the transparencies in an anatomy textbook that tell the same story at different depths. At its simplest level, the periodic table catalogs all the different kinds of matter in our universe, the hundred-odd characters whose headstrong personalities give rise to everything we see and touch. The shape of the table also gives us scientific clues as to how those personalities mingle with one another in crowds. On a slightly more complicated level, the periodic table encodes all sorts of forensic information about where every kind of atom came from and which atoms can fragment or mutate into different atoms. These atoms also naturally combine into dynamic systems like living creatures, and the periodic table predicts how. It even predicts what corridors of nefarious elements can hobble or destroy living things.\cb1 \
+\cb3 The periodic table is, finally, an anthropological marvel, a human artifact that reflects all of the wonderful and artful and ugly aspects of human beings and how we interact with the physical world \'97 the history of our species written in a compact and elegant script. It deserves study on each of these levels, starting with the most elementary and moving gradually upward in complexity. And beyond just entertaining us, the tales of the periodic table provide a way of understanding it that never appears in textbooks or lab manuals. We eat and breathe the periodic table; people bet and lose huge sums on it; philosophers use it to probe the meaning of science; it poisons people; it spawns wars. Between hydrogen at the top left and the man-made impossibilities lurking along the bottom, you can find bubbles, bombs, money, alchemy, petty politics, history, poison, crime, and love. Even some science.\cb1 \
+}
